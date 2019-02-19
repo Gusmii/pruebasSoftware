@@ -2,7 +2,13 @@
     width: 960px;
 }
 
+.main > p{
+	text-align:justify;
+}
+
 img{
-    width: 400px;
+    width: 350px;
     float: left;
+    margin:10px;
+    border-radius: 50px;
 }
